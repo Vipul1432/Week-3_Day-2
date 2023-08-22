@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+Exercise-1/build/js/app.js
+Exercise-2/build/js/app.js
+Exercise-3/build/js/app.js
+Exercise-4/build/js/app.js
+Exercise-5/build/js/app.js
+Exercise-6/build/js/app.js
