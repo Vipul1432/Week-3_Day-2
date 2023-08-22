@@ -4,7 +4,7 @@ function calculateAverage(numbers: number[]): number {
     sum += num;
   }
   // Add bug: Should be sum / numbers.length, not numbers.length / sum
-  return  numbers.length / sum; 
+  return sum / numbers.length; 
 }
 
 const numbers = [10, 20, 30, 40, 50];
